@@ -1,0 +1,4 @@
+The `==` operator is used for reference comparison, meaning it checks if two
+references point to the same object in memory. The `Equals()` method, on the other
+hand, is used for value comparison, meaning it checks if two objects have the same
+value.
