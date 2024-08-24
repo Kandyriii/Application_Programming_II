@@ -1,0 +1,4 @@
+`List<T>`: A dynamic array that allows random access and efficient
+insertions/removals at the end. Suitable for generalpurpose lists.
+`Queue<T>`: A firstin, firstout (FIFO) collection. Ideal for scenarios like task scheduling. `Stack<T>`: A lastin, firstout (LIFO) collection. Useful for undo operations or
+evaluating expressions.
