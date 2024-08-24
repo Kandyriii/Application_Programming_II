@@ -1,0 +1,5 @@
+Exceptions in are handled using `try`, `catch`, and `finally` blocks. The `try` block
+contains code that might throw an exception. The `catch` block handles specific
+exceptions, allowing the program to recover or log the error. The `finally` block is
+optional and is used to execute code that should run regardless of whether an
+exception was thrown. Best practices include catching only specific exceptions youcan handle and avoiding empty catch blocks that hide errors. 
