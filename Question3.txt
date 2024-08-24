@@ -1,0 +1,2 @@
+The Common Language Runtime (CLR) is the execution engine for .NET applications, providing services like memory management, security, and exception handling. TheBase Class Library (BCL) is a collection of reusable types that provide a foundationfor
+building applications. Together, they allow developers to write and execute managedcode efficiently.
