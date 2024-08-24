@@ -1,0 +1,3 @@
+Abstraction in is the concept of hiding the implementation details and showing onlythe essential features of an object. Abstract classes and interfaces are used to
+implement abstraction. An abstract class can provide a base for other classes to buildupon, while interfaces define a contract that implementing classes must follow.
+Abstraction is useful for simplifying complex systems and promoting maintainable, reusable code.
