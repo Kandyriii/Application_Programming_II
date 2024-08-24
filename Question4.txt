@@ -1,0 +1,3 @@
+Value types (e.g., `int`, `float`, `struct`) are stored in the stack and contain the actual
+data. Reference types (e.g., `class`, `string`, `object`) are stored in the heap and
+contain a reference to the data's memory address. Value types are generally faster toaccess, while reference types offer more flexibility in handling data.
