@@ -1,0 +1,8 @@
+A bottom-up approach starts by creating and testing smaller, independent modules, which are then combined to form the complete system. This method is beneficial
+when individual components are complex or when the focus is on flexibility and easeof testing. It enables thorough testing of each module before integration, minimizingerrors and enhancing the system's adaptability to changes. 
+
+Example:
+
+Building a microservices-based architecture where each service (like user
+authentication, payment processing, etc.) is developed and tested independently
+before integrating them into the larger application ensures robustness and flexibility.
