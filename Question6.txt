@@ -1,0 +1,3 @@
+A singledimensional array is a linear array, where elements are accessed with a singleindex. A jagged array is an array of arrays, where each "row" can have a different
+number of elements. Singledimensional arrays are useful for storing data in a
+straightforward list, while jagged arrays are suitable for data structures where thesizeof each "row" varies, such as a list of varyinglength strings.
