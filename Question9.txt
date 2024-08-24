@@ -1,0 +1,5 @@
+Threads in allow multiple operations to run concurrently, improving performance, especially in applications requiring multitasking. The `Thread` class provides lowlevel
+control over threads, making it suitable for simple scenarios. The `Task` class, part of
+the Task Parallel Library (TPL), is more powerful and is used for managing
+asynchronous operations, handling exceptions, and supporting more complex
+parallelism.
