@@ -1,0 +1,2 @@
+Packages in are collections of reusable code that can be shared across projects. NuGet is a package manager that allows developers to install and manage these
+packages, making development faster and more consistent. Packages can be installedvia Visual Studio or the command line, and they help developers avoid "reinventingthe wheel" by providing prebuilt functionality. 
