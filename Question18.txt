@@ -1,0 +1,2 @@
+Interfaces in define a contract that classes must adhere to, without dictating howthemethods are implemented. This allows for flexibility, as different classes can
+implement the same interface in different ways. Interfaces promote loose coupling, meaning that classes can interact with each other without being tightly dependent onone another's implementations. This makes code more modular, easier to maintain, and more reusable.
