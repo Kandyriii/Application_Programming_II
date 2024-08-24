@@ -1,0 +1,3 @@
+Abstract classes in provide a base class that cannot be instantiated on its own but canbe inherited by other classes. Unlike interfaces, abstract classes can contain bothabstract methods (which must be implemented by derived classes) and nonabstract
+methods (with implementations). Abstract classes are appropriate when there is
+shared behavior or data that multiple derived classes should inherit.
