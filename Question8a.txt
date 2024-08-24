@@ -1,0 +1,5 @@
+`while` loop: Repeats a block of code as long as the condition is true. Suitable for
+situations where the number of iterations isn't known beforehand.
+`dowhile` loop: Similar to `while`, but guarantees at least one iteration since the
+condition is checked after the loop's body. Useful when the loop needs to executeat
+least once. `for` loop: Used when the number of iterations is known. It provides initialization, condition, and increment/decrement in one line, making it ideal for counting loops.
