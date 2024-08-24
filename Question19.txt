@@ -1,0 +1,9 @@
+A top-down approach focuses on outlining the system's high-level architecture first, then breaking it down into smaller, more specific parts. This is particularly
+advantageous for large-scale projects as it offers a comprehensive view of the system, ensuring that all components work together seamlessly. Additionally, it helps in
+identifying potential design flaws early, reducing the chances of costly revisions later
+on.
+
+Example:
+
+Developing an enterprise resource planning (ERP) system, where a top-down
+approach allows you to define major modules like finance, human resources, andinventory management before detailing each sub-module, ensuring all elements alignwith the overall business objectives.
