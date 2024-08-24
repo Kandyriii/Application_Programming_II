@@ -1,0 +1,3 @@
+Encapsulation is the concept of wrapping data (fields) and methods into a single unit, the class. It helps control access to the class members by restricting direct access toprivate fields and exposing only necessary properties or methods. This ens that the
+internal representation of the object is hidden from the outside, promoting data
+integrity. 
