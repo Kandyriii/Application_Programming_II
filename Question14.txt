@@ -1,0 +1,3 @@
+Polymorphism in allows objects of different types to be treated as objects of a
+common base type. This is typically achieved through method overriding, where a
+derived class provides its own implementation of a method defined in the base class. Polymorphism enables code to be more flexible and reusable, as different objects canbe processed in a uniform way.
